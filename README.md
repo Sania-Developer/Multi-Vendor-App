@@ -6,20 +6,18 @@ This multi vendor app created using Flutter and Firebase in which seller can sel
 
 ## App Features
 
-```bash
-Login / Signup for user and seller
-Cart Screen
-Order
-Payment Stripe
-Add Multiple Address
-Visit seller store
-Upload products
-Edit products
-Forget Password
-Update Password
-Search product
-Product Category
-Edit store
-View Profile
-Seller Dashboard```
-
+- Login / Signup for user and seller
+- Cart Screen
+- Order
+- Payment Stripe
+- Add Multiple Address
+- Visit seller store
+- Upload products
+- Edit products
+- Forget Password
+- Update Password
+- Search product
+- Product Category
+- Edit store
+- View Profile
+- Seller Dashboard
